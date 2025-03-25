@@ -1,0 +1,1 @@
+O objetivo principal do projeto é analisar o impacto de diferentes condutores na propagação de sinais ultrassônicos, o foco é estudar de qual forma a terapia sonodinâmica é viável, qual a área e profundidade de atuação na pele.
